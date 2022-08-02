@@ -1,5 +1,4 @@
 # device_google_redfin
-device/google/redfin for unofficial Evolution-X build for the Google Pixel 5
 The Google Pixel 5 (codenamed _"redfin"_) is a flagship smartphone from Google announced in September 30, 2020 and release on October 15, 2020.
 
 
