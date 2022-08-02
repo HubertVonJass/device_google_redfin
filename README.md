@@ -1,5 +1,5 @@
 # device_google_redfin
-The Google Pixel 5 (codenamed _"redfin"_) is a flagship smartphone from Google announced in September 30, 2020 and release on October 15, 2020.
+The Google Pixel 5 (codenamed _"redfin"_) is a flagship smartphone from Google announced on September 30, 2020 and release on October 15, 2020.
 
 
 ## Device specifications
